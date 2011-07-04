@@ -7,7 +7,7 @@ Welcome to my blog.
 
 <p>Bla bla</p>
 
-[Email me](mailto:rebekka.morken@gmail.com "Email me")
+[Email me](mailto:tullete@tullemail.com "Email me")
 
 [About](about/ "About")
 
